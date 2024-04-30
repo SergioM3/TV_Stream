@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Imaculada" tvg-logo="https://media.themoviedb.org/t/p/original/tsV19P8J4NMP54cC8QCg1IkLLks.jpg" group-title="FHD",Imaculada
+https://44.download.real-debrid.com/d/F2A3LKFWFH7LK/Immaculate.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-name="O Padrinho: Parte II " tvg-logo="https://media.themoviedb.org/t/p/original/7g6wvsWHxBQujUcSXvZLhdFpDUy.jpg" group-title="FHD",O Padrinho: Parte II 
+https://34.download.real-debrid.com/d/KILSQMNYYPFI4/The.Godfather.Part.II.1974.REMASTERED.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-name="Bem-vindo à Zombieland" tvg-logo="https://media.themoviedb.org/t/p/original/mXuFhb5U2FgVq8uu4k3luQVRwLK.jpg" group-title="FHD",Bem-vindo à Zombieland
+https://22.download.real-debrid.com/d/STO7GC2CAXGQE/Zombieland%202009%20%20%281080p%20x265%20q22%20S78%20Joy%29.mkv
+#EXTINF:-1 tvg-name="The Walking Dead: Dead City S01E01" tvg-logo="https://media.themoviedb.org/t/p/original/oC4SG9TXM0C6KUoAUv76WOvQ103.jpg" group-title="FHD",The Walking Dead: Dead City
+https://22.download.real-debrid.com/d/GLU5EIJQBBN3E/The.Walking.Dead.Dead.City.S01E01.MULTi.1080p.WEB.x264-FW.mkv
+#EXTINF:-1 tvg-name="The Walking Dead: Dead City S01E02" tvg-logo="https://media.themoviedb.org/t/p/original/oC4SG9TXM0C6KUoAUv76WOvQ103.jpg" group-title="FHD",The Walking Dead: Dead City
+https://84.download.real-debrid.com/d/OPCLOBYTMYL5I/The.Walking.Dead.Dead.City.S01E02.1080p.WEB.h264-ETHEL%5Beztv.re%5D.mkv
+#EXTVLCOPT:sub-file=https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1958179210
+#EXTINF:-1 tvg-name="The Walking Dead: Dead City S01E02" tvg-logo="https://media.themoviedb.org/t/p/original/oC4SG9TXM0C6KUoAUv76WOvQ103.jpg" group-title="FHD",The Walking Dead: Dead City
+https://84.download.real-debrid.com/d/OPCLOBYTMYL5I/The.Walking.Dead.Dead.City.S01E02.1080p.WEB.h264-ETHEL%5Beztv.re%5D.mkv
